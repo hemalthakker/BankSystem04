@@ -9,6 +9,8 @@ public class Design {
         return;
     }
 
+    ///////
+
     void RegistrationDesign()
     {
         System.out.println("\nFull Name should have FirstName MiddleName LastName");
